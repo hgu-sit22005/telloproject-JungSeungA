@@ -1,0 +1,3 @@
+/data/telloproject-JungSeungA/src/CMakeFiles/rebuild_cache.dir
+/data/telloproject-JungSeungA/src/CMakeFiles/TelloPro.dir
+/data/telloproject-JungSeungA/src/CMakeFiles/edit_cache.dir
