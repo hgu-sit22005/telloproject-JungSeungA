@@ -34,16 +34,16 @@ TelloPro* get_instance(boost::python::str _inst, int _val) // int value추가 ; 
 		return new Up(_val); //argument추가 
 	else if(instance == "down")
 		return new Down(_val);
-	else if(instance == "Left")
+	else if(instance == "left")
 		return new Left(_val);
-	else if(instance == "Right")
+	else if(instance == "right")
 		return new Right(_val);
 	
 	else if(instance == "forward")
 		return new Forward(_val);
 	
 	
-	else if(instance == "Back")
+	else if(instance == "back")
 		return new Back(_val);
 
 	else if(instance == "cw")
